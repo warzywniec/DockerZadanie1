@@ -1,0 +1,9 @@
+# Ignore everything
+/*
+
+# Whitelisting files needed for the exercise
+!.gitignore
+!README.md
+!server.c
+!Dockerfile
+!zadanie1.md
