@@ -1,6 +1,7 @@
 # Zadanie 1 w ramach LABORATORIUM: Programowanie Aplikacji w Chmurze Obliczeniowej
 
 Aplikacja serwerowa napisana w C "server.c", oraz plik tworzący obraz "Dockerfile"
+
 Sprawozdanie z zadania, znajduje się w pliku "zadanie1.md"
 
 ### Budowa obrazu
